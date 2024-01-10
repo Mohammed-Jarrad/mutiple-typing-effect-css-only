@@ -1,0 +1,1 @@
+const demo = document.querySelector('#heading')
